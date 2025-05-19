@@ -1,0 +1,17 @@
+
+{
+  "DESIGN_NAME": "alu",
+  "VERILOG_FILES": ["src/alu.v"],
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 10.0,
+  "SYNTH_TOP": "alu",
+  "FP_CORE_UTIL": 50,
+  "FP_PDN_VPITCH": 40,
+  "FP_PDN_HPITCH": 40,
+  "FP_ASPECT_RATIO": 1.0,
+  "FP_CORE_MARGIN": 2.0,
+  "PLACE_DENSITY": 0.55,
+  "ROUTING_STRATEGY": 0,
+  "LVS_INSERT_POWER_PINS": "1",
+  "RUN_CVC": 0
+}
